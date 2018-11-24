@@ -22,7 +22,7 @@ app.use(express.static('/opt/node_modules/express/public/bootstrap/'));
 
 
 app.use('/', indexRouter);
-app.use('/client', indexRouter);
+
 
 
 // catch 404 and forward to error handler

@@ -14,6 +14,7 @@ body {
   font-family: 'Source Sans Pro';
 }
 
+
 .btn-xl {
   padding: 1.25rem 2.5rem;
 }
@@ -113,6 +114,25 @@ h6 {
   .masthead h1 {
     font-size: 5.5rem;
   }
+}
+
+ #demo
+    {
+      background-repeat: no-repeat;
+      width: 20px;
+      height: 10px;
+    }
+
+ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+ul {
+    list-style:none;
+    margin:0;
+    padding:0;
 }
 
 /* Side Menu */
